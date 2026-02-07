@@ -1,0 +1,5 @@
+{
+    "action_verbs":["led","supervised","directed","coordinated","delegated","orchestrated","executed","oversaw","achieved","completed","delivered","exceeded","outperformed","improved","maximized","reduced","presented","negotiated","advocated","corresponded","drafted","edited","promoted","conveyed","analyzed","researched","diagnosed","evaluated","interpreted","synthesized","solved","developed","designed","programmed","built","modeled","created","automated","collaborated","partnered","contributed","faciliated","supported","unified","participated","encouraged"],
+
+    "tech_skills":["Python","JavaScript","Java","C++","SQL","HTML/CSS","TypeScript","Bash","React","Angular","Django","FLask","Node.js","Spring Boot","Tensorflow","PyTorch","Git/Github","Docker","Kubernetes","Jenkins","Postman","Firebase","Linux","MySQL","PostgreSQL","Redis","Oracle","SQLite","Pandas","NumPy","Excel","Tableau","Power BI","Google Analytics","Matplotlib","Scikit-learn","Firewalls"]
+}
