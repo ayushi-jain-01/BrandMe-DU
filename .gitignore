@@ -1,1 +1,11 @@
 requirements.txt
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+face_env/
